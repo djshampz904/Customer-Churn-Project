@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:Tag>ReisHousley2022</b:Tag>
+    <b:SourceType>Book</b:SourceType>
+    <b:Author>
+      <b:AuthorInitials>J.</b:AuthorInitials>
+      <b:AuthorForeName>Joe</b:AuthorForeName>
+      <b:AuthorMiddleName/>
+      <b:AuthorLastOrSurname>Reis</b:AuthorLastOrSurname>
+      <b:AuthorSuffix/>
+    </b:Author>
+    <b:Author>
+      <b:AuthorInitials>M.</b:AuthorInitials>
+      <b:AuthorForeName>Matt</b:AuthorForeName>
+      <b:AuthorMiddleName/>
+      <b:AuthorLastOrSurname>Housley</b:AuthorLastOrSurname>
+      <b:AuthorSuffix/>
+    </b:Author>
+    <b:Year>2022</b:Year>
+    <b:Title>Fundamentals of Data Engineering</b:Title>
+    <b:Publisher>O'Reilly Media, Inc.</b:Publisher>
+    <b:City>Sebastopol, CA</b:City>
+  </b:Source>
+</b:Sources>

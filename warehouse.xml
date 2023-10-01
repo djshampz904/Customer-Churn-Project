@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:Tag>KimballRoss2002</b:Tag>
+    <b:SourceType>Book</b:SourceType>
+    <b:Author>
+      <b:AuthorInitials>R.</b:AuthorInitials>
+      <b:AuthorForeName>Ralph</b:AuthorForeName>
+      <b:AuthorMiddleName/>
+      <b:AuthorLastOrSurname>Kimball</b:AuthorLastOrSurname>
+      <b:AuthorSuffix/>
+    </b:Author>
+    <b:Author>
+      <b:AuthorInitials>M.</b:AuthorInitials>
+      <b:AuthorForeName>Margy</b:AuthorForeName>
+      <b:AuthorMiddleName/>
+      <b:AuthorLastOrSurname>Ross</b:AuthorLastOrSurname>
+      <b:AuthorSuffix/>
+    </b:Author>
+    <b:Year>2002</b:Year>
+    <b:Title>The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling</b:Title>
+    <b:Publisher>John Wiley and Sons, Inc.</b:Publisher>
+    <b:City/>
+  </b:Source>
+</b:Sources>
+
